@@ -8,3 +8,5 @@
 ## My Projects Languages
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahde-sharafpoor&stats_format=bytes">
+
+<img src="https://img.shields.io/github/commit-activity/m/mahde-sharafpoor/Django-Project/main">
