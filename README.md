@@ -1,9 +1,9 @@
-# 👋 Hey there, I'm Mahde Sharafpoor, Welcome to my page.!
+# 👋 Hey there, I'm Mahdi Sharafpoor, Welcome to my page.!
 
 ```python
 class BackendDeveloper:
     def __init__(self):
-        self.name = "Mahde Sharafpoor"
+        self.name = "Mahdi Sharafpoor"
         self.role = "Backend Developer"
         self.age  = "30"
         self.learning = True
