@@ -79,4 +79,4 @@ if __name__ == "__main__":
   </a>
 </p>
 
-⭐️ From [Gamtel01 ❤️](https://Gamte01.ir/)
+(⭐️ From [Gamtel01 ❤️](https://Gamtel01.ir/))
