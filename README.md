@@ -55,3 +55,12 @@ if __name__ == "__main__":
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django&logoColor=092E20)
 
+## 📊 GitHub Stats  
+
+<p align="center">
+  <a href="https://github.com/mahde-sharafpoor">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mahde-sharafpoor&show_icons=true&theme=radical" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahde-sharafpoor&layout=compact&theme=radical" />
+  </a>
+</p>
+
