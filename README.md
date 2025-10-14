@@ -65,3 +65,16 @@ if __name__ == "__main__":
   </a>
 </p>
 
+<h2>📞 &nbsp; Connct Me </h2>
+
+<p align="center">
+  <a href="https://gamtelo1.ir/">
+    <img src="https://img.shields.io/badge/Website-www.Gamtel01.ir-blue?style=flat&logo=google-chrome" />
+  </a>
+  <a href="https://instagram.com/Mehde_sharafpoor/">
+    <img src="https://img.shields.io/badge/Instagram-@Mehde_sharafpoor-red?style=flat&logo=instagram" />
+  </a>
+  <a href="https://t.me/Mahde72/">
+    <img src="https://img.shields.io/badge/Telegram-@Mahde72-blue?style=flat&logo=telegram" />
+  </a>
+</p>
