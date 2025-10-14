@@ -56,7 +56,7 @@ if __name__ == "__main__":
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django&logoColor=092E20)
 
-## 📊 GitHub Stats  
+## ⚡️ GitHub Stats  
 
 <p align="center">
   <a href="https://github.com/mahde-sharafpoor">
