@@ -5,6 +5,7 @@ class BackendDeveloper:
     def __init__(self):
         self.name = "Mahde Sharafpoor"
         self.role = "Backend Developer"
+        self.age  = "30"
         self.learning = True
         self.hobbies = ["Coding", "Drinking Coffee ☕"]
 
