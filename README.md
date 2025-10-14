@@ -78,3 +78,5 @@ if __name__ == "__main__":
     <img src="https://img.shields.io/badge/Telegram-@Mahde72-blue?style=flat&logo=telegram" />
   </a>
 </p>
+
+⭐️ From [Gamtel01 ❤️](https://Gamte01.ir/)
